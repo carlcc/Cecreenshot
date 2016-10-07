@@ -28,7 +28,7 @@ HEADERS  += \
     rectpaintingstep.h \
     mosaicpaintingstep.h
 
-FORMS    += mainwindow.ui
+FORMS    += fullscreenimageeditor.ui
 
 DISTFILES += \
     image/save/imgo.jpg \
