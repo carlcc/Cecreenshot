@@ -1,0 +1,6 @@
+Q1) How to build?
+A1) qmake && make. My develop SDK is Qt5.7.
+
+Q2) How to use?
+A2) Copy the main program to any executable path, then just run it. And you might want to bind a shortcut to start this program, 
+    you can use the shortcut of desktop environment, which is used to start this program.
